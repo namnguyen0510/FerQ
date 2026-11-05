@@ -11,6 +11,8 @@ run/.. # executable scripts to reproduce results
 ```
 
 # Contact
-Phuong-Nam Nguyen.
-Graduate Research, School of Information Technology.
+Phuong-Nam Nguyen
+
+Graduate Research, School of Information Technology, Deakin University
+
 Email: namnp.0510@gmail.com
